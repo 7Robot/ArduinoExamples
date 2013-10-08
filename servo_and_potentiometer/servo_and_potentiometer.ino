@@ -7,7 +7,7 @@
 const int potPin = A0;
 const int servoPin = 9;
 
-// other usefull constants
+// other useful constants
 const int baudRate = 9600; // in bits/s
 
 // variables
