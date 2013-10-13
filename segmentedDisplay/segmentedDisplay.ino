@@ -117,5 +117,5 @@ void loop()
 {
   time = millis();
   time2Table(time, timeTable);
-  multiDisplay(timeTable, 4, 2, 9, 25){
+  multiDisplay(timeTable, 4, 2, 9, 25);
 }
