@@ -1,0 +1,4 @@
+The StarterGuide folder contains info you may need to learn Arduino.
+
+Try not to change examples given in Example folder.
+Put your tests in Tests folder and not directly in Example folder.
