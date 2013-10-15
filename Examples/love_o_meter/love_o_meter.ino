@@ -1,4 +1,4 @@
-// this program uses 1 green led, 2 red led and a push button
+// this program uses leds and a temperature sensor
 
 // mapping of the connections
 const int tempSensorPin = A0;
